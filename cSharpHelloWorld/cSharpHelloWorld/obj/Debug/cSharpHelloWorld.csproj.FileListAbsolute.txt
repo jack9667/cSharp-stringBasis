@@ -13,3 +13,6 @@ C:\Users\Administrator\Source\Repos\cSharp-stringBasis\cSharpHelloWorld\cSharpHe
 D:\Backup\Documents\GitHub\cSharp-stringBasis\cSharpHelloWorld\cSharpHelloWorld\bin\Debug\cSharpHelloWorld.exe.config
 D:\Backup\Documents\GitHub\cSharp-stringBasis\cSharpHelloWorld\cSharpHelloWorld\obj\Debug\cSharpHelloWorld.exe
 D:\Backup\Documents\GitHub\cSharp-stringBasis\cSharpHelloWorld\cSharpHelloWorld\obj\Debug\cSharpHelloWorld.pdb
+H:\gitclone\cSharp-stringBasis\cSharpHelloWorld\cSharpHelloWorld\bin\Debug\cSharpHelloWorld.exe.config
+H:\gitclone\cSharp-stringBasis\cSharpHelloWorld\cSharpHelloWorld\obj\Debug\cSharpHelloWorld.exe
+H:\gitclone\cSharp-stringBasis\cSharpHelloWorld\cSharpHelloWorld\obj\Debug\cSharpHelloWorld.pdb
