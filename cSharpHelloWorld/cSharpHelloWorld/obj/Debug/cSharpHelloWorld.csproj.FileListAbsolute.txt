@@ -4,3 +4,9 @@ H:\vs2015\测试小程序\cSharpHelloWorld\cSharpHelloWorld\bin\Debug\cSharpHell
 H:\vs2015\测试小程序\cSharpHelloWorld\cSharpHelloWorld\obj\Debug\cSharpHelloWorld.csprojResolveAssemblyReference.cache
 H:\vs2015\测试小程序\cSharpHelloWorld\cSharpHelloWorld\obj\Debug\cSharpHelloWorld.exe
 H:\vs2015\测试小程序\cSharpHelloWorld\cSharpHelloWorld\obj\Debug\cSharpHelloWorld.pdb
+C:\Users\Administrator\Source\Repos\cSharp-stringBasis\cSharpHelloWorld\cSharpHelloWorld\bin\Debug\cSharpHelloWorld.exe.config
+C:\Users\Administrator\Source\Repos\cSharp-stringBasis\cSharpHelloWorld\cSharpHelloWorld\obj\Debug\cSharpHelloWorld.exe
+C:\Users\Administrator\Source\Repos\cSharp-stringBasis\cSharpHelloWorld\cSharpHelloWorld\obj\Debug\cSharpHelloWorld.pdb
+C:\Users\Administrator\Source\Repos\cSharp-stringBasis\cSharpHelloWorld\cSharpHelloWorld\bin\Debug\cSharpHelloWorld.exe
+C:\Users\Administrator\Source\Repos\cSharp-stringBasis\cSharpHelloWorld\cSharpHelloWorld\bin\Debug\cSharpHelloWorld.pdb
+C:\Users\Administrator\Source\Repos\cSharp-stringBasis\cSharpHelloWorld\cSharpHelloWorld\obj\Debug\cSharpHelloWorld.csprojResolveAssemblyReference.cache
