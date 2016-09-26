@@ -1,0 +1,6 @@
+H:\vs2015\测试小程序\cSharpHelloWorld\cSharpHelloWorld\bin\Debug\cSharpHelloWorld.exe.config
+H:\vs2015\测试小程序\cSharpHelloWorld\cSharpHelloWorld\bin\Debug\cSharpHelloWorld.exe
+H:\vs2015\测试小程序\cSharpHelloWorld\cSharpHelloWorld\bin\Debug\cSharpHelloWorld.pdb
+H:\vs2015\测试小程序\cSharpHelloWorld\cSharpHelloWorld\obj\Debug\cSharpHelloWorld.csprojResolveAssemblyReference.cache
+H:\vs2015\测试小程序\cSharpHelloWorld\cSharpHelloWorld\obj\Debug\cSharpHelloWorld.exe
+H:\vs2015\测试小程序\cSharpHelloWorld\cSharpHelloWorld\obj\Debug\cSharpHelloWorld.pdb
