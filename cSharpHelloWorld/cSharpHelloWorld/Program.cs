@@ -30,7 +30,7 @@ namespace cSharpHelloWorld
 
         public static void getReverse(string[] word)
         {
-            Console.WriteLine("hi,changed here~")
+            Console.WriteLine("hi,changed here~");
             /*string reverseString = "";
             for(int i = word.Length - 1; i >= 0; i--)
             {
